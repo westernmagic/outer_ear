@@ -1,0 +1,1 @@
+Create a more advanced version of the auditory simulation, including effects of pinna, length of ear canal, and middle ear / osscicles on sound perception. Create short audio clips showing differences for WikiBook.
